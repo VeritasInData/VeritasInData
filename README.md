@@ -1,2 +1,59 @@
+### Hello 👋, I'm SH Kim, whose dream is to become an AI researcher. 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaemin6697%2Fhit-counter&count_bg=%23000000&title_bg=%23FFFD54&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+---
+
+<h3 align="center">🛠 TECH STACK 🛠</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flate&logo=c&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=falt&logo=Raspberry-Pi"/>
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
+    
+---
+
+### Experiences
+> * __Alethio ML Researcher Intern, [Alethio Co., Ltd.](https://alethio.io/)__ / 2023.08 ~
+> * __LG Aimers 3th, [LG Aimers](https://www.lgaimers.ai/)__ / 2023.07 ~ 2023.09
+> * __NLP AI Developer 5th, [BoostCamp AI Tech](https://boostcamp.connect.or.kr/)__ / 2023.03 ~ 2023.08
+> * __Freie Universität Berlin: B.A. Political Science / 2014.10- ~ 2029.09
+---
+    
+### Competitions & Project
+> * __Boostcamp AI Tech - LawBot(Legal-GPT) Project Serving, [Final Project](https://github.com/taemin6697/level3_nlp_finalproject-nlp-08/tree/main)__ / 2023.07. ~ 2023.08.
+> * __Boostcamp AI Tech - Open-Domain Question Answering, [ODQA](https://github.com/taemin6697/level2_nlp_mrc-nlp-08)__ / 2023.06.07 ~ 2023.06.22
+
+----
+
+### Paper Review
+> * __Visual Instruction Tuning / [LLaVA](https://velog.io/@tm011899/LLaVA-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Visual-Instruction-Tuning)__
+> * __VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text / [VATT](https://velog.io/@tm011899/VATT-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0VATT-Transformers-for-Multimodal-Self-Supervised-Learning-from-Raw-Video-Audio-and-Text-4f8n4dkl)__
+> * __One Embedding Space To Bind Them ALL / [ImageBind](https://velog.io/@tm011899/ImageBind-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0One-Embedding-Space-To-Bind-Them-ALL)__
+> * __HyperNetworks for Fast Personalization of Text-to-Image Models / [HyperDreambooth](https://velog.io/@tm011899/HyperDreambooth-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0HyperDreamBooth-HyperNetworks-for-FastPersonalization-of-Text-to-Image-Models)__
+
+> #### 일부 리뷰는 [Youtube](https://www.youtube.com/@user-dt2tf9mm8y/videos), [Velog](https://velog.io/@tm011899)에서 확인할 수 있습니다.
+----
+
+### Uploaded Model <img src="https://huggingface.co/landing/assets/transformers-docs/huggingface_logo.svg" alt="huggingface" width="20" height="20"/>
+> * __kfkas/Legal-Llama-2-ko-7b-Chat⚖️🦙 / [Huggingface](https://huggingface.co/kfkas/Legal-Llama-2-ko-7b-Chat)__
+> * __YoonSeul/LawBot-level-3-KuLLM-5.8B-tae-2epoch⚖️ / [Huggingface](https://huggingface.co/YoonSeul/LawBot-level-3-KuLLM-5.8B-tae-2epoch)__
+
+----
+
+
+
+﻿﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6697&langs_count=10&layout=compact&theme=white)](https://github.com/taemin6697/taemin6697)﻿
+﻿
+---
+
+<b> Baekjoon Tier </b>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktmkjj88)](https://solved.ac/ktmkjj88/)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeritasInData&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeritasInData&layout=compact&theme=tokyonight)
