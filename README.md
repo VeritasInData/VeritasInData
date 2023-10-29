@@ -16,16 +16,13 @@
     
 ---
 
-### Experiences
-> * __Alethio ML Researcher Intern, [Alethio Co., Ltd.](https://alethio.io/)__ / 2023.08 ~
-> * __LG Aimers 3th, [LG Aimers](https://www.lgaimers.ai/)__ / 2023.07 ~ 2023.09
-> * __NLP AI Developer 5th, [BoostCamp AI Tech](https://boostcamp.connect.or.kr/)__ / 2023.03 ~ 2023.08
-> * __Freie Universität Berlin: B.A. Political Science / 2014.10- ~ 2029.09
+### Education
+> * __Yonsei University
+> * __Freie Universität Berlin__: M.A. Political Science / 2014.00- ~ 2000.00
 ---
     
 ### Competitions & Project
-> * __Boostcamp AI Tech - LawBot(Legal-GPT) Project Serving, [Final Project](https://github.com/taemin6697/level3_nlp_finalproject-nlp-08/tree/main)__ / 2023.07. ~ 2023.08.
-> * __Boostcamp AI Tech - Open-Domain Question Answering, [ODQA](https://github.com/taemin6697/level2_nlp_mrc-nlp-08)__ / 2023.06.07 ~ 2023.06.22
+
 
 ----
 
