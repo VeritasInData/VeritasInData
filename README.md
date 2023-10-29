@@ -15,23 +15,23 @@
 
 ### Education
 > * __Yonsei University__
-> * __Freie Universität Berlin__: M.A. Pience / 2014.00- ~ 2000.00
+> * __Freie Universität Berlin__: M.A. Pience / 2014.00 ~ 2000.00
 ---
     
 ### Employment
-> * __Fr
+> 
 
 ----
 
 ### Paper Review
-> * __Visual Instruction Tuning / 
+> 
 
 
 ----
 
-### Uploaded Model <img src="https://huggingface.co/landing/assets/transformers-docs/huggingface_logo.svg" alt="huggingface" width="20" height="20"/>
-> * __kfkas/Legal-Llama-2-ko-7b-C
-> * __YoonSeul/LawBot-level-3-KuL
+### Model
+> * 
+> * 
 
 ----
 
