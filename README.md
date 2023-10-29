@@ -1,5 +1,5 @@
-### Hello 👋, I'm SH Kim, whose dream is to become an AI researcher. 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaemin6697%2Fhit-counter&count_bg=%23000000&title_bg=%23FFFD54&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hello👋, I'm SH Kim, whose dream is to become an AI researcher. 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVeritasInData%2Fhit-counter&count_bg=%23E9D701&title_bg=%23EB1E1E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 
@@ -17,8 +17,8 @@
 ---
 
 ### Education
-> * __Yonsei University
-> * __Freie Universität Berlin__: M.A. Political Science / 2014.00- ~ 2000.00
+> * __Yonsei University__
+> * __Freie Universität Berlin__: M.A. Pience / 2014.00- ~ 2000.00
 ---
     
 ### Competitions & Project
@@ -47,9 +47,6 @@
 ﻿
 ---
 
-<b> Baekjoon Tier </b>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktmkjj88)](https://solved.ac/ktmkjj88/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeritasInData&show_icons=true&theme=dark)
