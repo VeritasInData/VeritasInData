@@ -17,17 +17,19 @@ I'm SH Kim, Data Analyst, crrently living Seoul, South Korea.
     <img src="https://img.shields.io/badge/Tableau-blue?style=flat-square&logo=tableau&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Big Query-blue?style=flat-square&logo=googlebigquery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/numpy-blue?style=flat-square&logo=numpy&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
     <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikitlearn-orange?style=flat-square&logo=scikitlearn&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
     
 
     
