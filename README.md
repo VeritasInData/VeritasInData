@@ -24,6 +24,8 @@ I'm SH Kim, Data Analyst, crrently living Seoul, South Korea.
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
     <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 
     
 
