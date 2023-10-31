@@ -1,5 +1,5 @@
 ### 👋 Herzlich Willkommen, 
-I'm SH Kim, Data Analyst, crrently living Seoul, South Korea.
+I'm SH Kim, Data Scientist, crrently living Seoul, South Korea.
 <br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVeritasInData%2Fhit-counter&count_bg=%23E9D701&title_bg=%23EB1E1E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
