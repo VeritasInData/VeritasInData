@@ -36,8 +36,8 @@ I'm SH Kim, Data Scientist, crrently living Seoul, South Korea.
 ---
 
 ### Education
-> * __Yonsei University__
-> * __Freie Universität Berlin__: M.A. / 2018.10 ~ 2022.05
+> * __Yo U__
+> * __Freie Uni__: M.A. / 2018.10 ~ 2022.05
 ---
     
 ### Paper Review
