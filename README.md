@@ -36,8 +36,8 @@ Data Scientist
 ---
 
 ### Education
-> * __Yo U__
-> * __Freie Uni__: M.A. / 2018.10 ~ 2022.05
+> * __Y U__
+> * __F_: M.A. / 2018.10 ~ 2022.05
 ---
     
 ### Paper Review
