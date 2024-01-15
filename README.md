@@ -1,4 +1,4 @@
-### 👋 Herzlich Willkommen, 
+### 👋 Herjd, 
 Data Scientist
 <br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVeritasInData%2Fhit-counter&count_bg=%23E9D701&title_bg=%23EB1E1E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -35,9 +35,7 @@ Data Scientist
     
 ---
 
-### Education
-> * __Y U__
-> * __F_: M.A. / 2018.10 ~ 2022.05
+
 ---
     
 ### Paper Review
